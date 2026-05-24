@@ -11,3 +11,6 @@ wheels/
 
 # File
 *.pdf
+
+# jupyter
+.ipynb_checkpoints/
